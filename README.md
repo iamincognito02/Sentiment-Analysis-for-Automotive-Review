@@ -83,3 +83,8 @@ The ensemble model has been pickled for use in the Flask app to provide accurate
 - To use the same setup, ensure your files (`ensemble_model.pkl` and `vectorizer_final.pkl`) are in the root directory of your Flask app.
 ## Sample output
 ![Screenshot_10-10-2024_15138_](https://github.com/user-attachments/assets/026c3a1f-42ef-4c02-86f2-4256281337b5)
+![Screenshot 2024-04-21 194439](https://github.com/user-attachments/assets/b53a9ed0-7749-4598-a3df-c86910e579a5)
+![Screenshot 2024-04-21 194459](https://github.com/user-attachments/assets/9de8a6c2-1707-442c-9fd7-d45a19af0d17)
+![Screenshot 2024-04-21 194657](https://github.com/user-attachments/assets/604d0280-11aa-4cb5-b63b-513d1028cc04)
+![Screenshot 2024-04-21 194709](https://github.com/user-attachments/assets/3a7c460b-53ac-4f16-9787-e998f17be5b2)
+
